@@ -9,7 +9,7 @@ public class Principal {
 		System.out.println("RAMA 1: SEGUNDO MENSAJE");
 		
 		// RAMA2
-		/*System.out.println("RAMA 2: PRIMER MENSAJE");
-		System.out.println("RAMA 2: SEGUNDO MENSAJE");*/
+		System.out.println("RAMA 2: PRIMER MENSAJE");
+		System.out.println("RAMA 2: SEGUNDO MENSAJE");
 	}
 }
